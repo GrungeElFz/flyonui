@@ -154,5 +154,27 @@ module.exports = {
     '--rounded-btn': '1.75rem',
     '--rounded-tooltip': '0.5rem',
     '--tab-radius': '0.75rem'
+  },
+  black: {
+    "color-scheme": "dark",
+    primary: "#373737",
+    secondary: "#373737",
+    accent: "#373737",
+    "base-100": "#000000",
+    "base-200": "#141414",
+    "base-300": "#262626",
+    "base-content": "#d6d6d6",
+    neutral: "#373737",
+    info: "#0000ff",
+    success: "#008000",
+    warning: "#ffff00",
+    error: "#ff0000",
+    "--rounded-box": "0",
+    "--rounded-btn": "0",
+    "--rounded-badge": "0",
+    "--animation-btn": "0",
+    "--animation-input": "0",
+    "--btn-focus-scale": "1",
+    "--tab-radius": "0",
   }
 }

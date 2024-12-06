@@ -1,5 +1,5 @@
 module.exports = {
-  themeOrder: ['light', 'dark', 'gourmet', 'corporate', 'luxury', 'soft'],
+  themeOrder: ['light', 'dark', 'gourmet', 'corporate', 'luxury', 'soft', 'black'],
   variables: {
     '--rounded-box': '0.5rem ',
     '--rounded-btn': '0.375rem',
